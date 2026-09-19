@@ -1,0 +1,27 @@
+{
+  "name": "backenddemo",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayancode2026/Backend.git"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Sayan Bardhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sayancode2026/Backend/issues"
+  },
+  "homepage": "https://github.com/Sayancode2026/Backend#readme",
+  "dependencies": {
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1"
+  }
+}
